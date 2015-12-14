@@ -250,8 +250,8 @@
                                     </stackView>
                                 </subviews>
                             </stackView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="5060" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lFP-WF-cEI">
-                                <rect key="frame" x="210" y="100" width="199" height="43"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lFP-WF-cEI">
+                                <rect key="frame" x="189" y="100" width="220" height="43"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="199" id="c91-W1-y4p"/>
                                     <constraint firstAttribute="height" constant="40" id="mww-37-E0w"/>
